@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.exe.config
+C:\Users\hp\source\repos\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.exe
+C:\Users\hp\source\repos\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.pdb
+C:\Users\hp\source\repos\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.exe
+C:\Users\hp\source\repos\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.pdb
