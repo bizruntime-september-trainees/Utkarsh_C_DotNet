@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.exe.config
+C:\Users\hp\source\repos\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+C:\Users\hp\source\repos\ArrayListDemo\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+C:\Users\hp\source\repos\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.exe
+C:\Users\hp\source\repos\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.pdb
+C:\Users\hp\source\repos\ArrayListDemo\ArrayListDemo\obj\Debug\ArrayListDemo.csprojAssemblyReference.cache

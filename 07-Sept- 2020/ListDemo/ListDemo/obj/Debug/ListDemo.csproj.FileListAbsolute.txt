@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ListDemo\ListDemo\bin\Debug\ListDemo.exe.config
+C:\Users\hp\source\repos\ListDemo\ListDemo\bin\Debug\ListDemo.exe
+C:\Users\hp\source\repos\ListDemo\ListDemo\bin\Debug\ListDemo.pdb
+C:\Users\hp\source\repos\ListDemo\ListDemo\obj\Debug\ListDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ListDemo\ListDemo\obj\Debug\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ListDemo\ListDemo\obj\Debug\ListDemo.exe
+C:\Users\hp\source\repos\ListDemo\ListDemo\obj\Debug\ListDemo.pdb

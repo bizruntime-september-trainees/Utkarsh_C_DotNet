@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\SortedListDemo\SortedListDemo\bin\Debug\SortedListDemo.exe.config
+C:\Users\hp\source\repos\SortedListDemo\SortedListDemo\bin\Debug\SortedListDemo.exe
+C:\Users\hp\source\repos\SortedListDemo\SortedListDemo\bin\Debug\SortedListDemo.pdb
+C:\Users\hp\source\repos\SortedListDemo\SortedListDemo\obj\Debug\SortedListDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SortedListDemo\SortedListDemo\obj\Debug\SortedListDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SortedListDemo\SortedListDemo\obj\Debug\SortedListDemo.exe
+C:\Users\hp\source\repos\SortedListDemo\SortedListDemo\obj\Debug\SortedListDemo.pdb
