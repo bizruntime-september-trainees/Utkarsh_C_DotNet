@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\IndexerOverloading\IndexerOverloading\bin\Debug\IndexerOverloading.exe.config
+C:\Users\hp\source\repos\IndexerOverloading\IndexerOverloading\bin\Debug\IndexerOverloading.exe
+C:\Users\hp\source\repos\IndexerOverloading\IndexerOverloading\bin\Debug\IndexerOverloading.pdb
+C:\Users\hp\source\repos\IndexerOverloading\IndexerOverloading\obj\Debug\IndexerOverloading.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\IndexerOverloading\IndexerOverloading\obj\Debug\IndexerOverloading.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\IndexerOverloading\IndexerOverloading\obj\Debug\IndexerOverloading.exe
+C:\Users\hp\source\repos\IndexerOverloading\IndexerOverloading\obj\Debug\IndexerOverloading.pdb

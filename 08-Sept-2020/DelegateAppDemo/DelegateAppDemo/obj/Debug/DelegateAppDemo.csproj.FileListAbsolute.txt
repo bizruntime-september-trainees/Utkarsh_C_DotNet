@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\DelegateAppDemo\DelegateAppDemo\bin\Debug\DelegateAppDemo.exe.config
+C:\Users\hp\source\repos\DelegateAppDemo\DelegateAppDemo\bin\Debug\DelegateAppDemo.exe
+C:\Users\hp\source\repos\DelegateAppDemo\DelegateAppDemo\bin\Debug\DelegateAppDemo.pdb
+C:\Users\hp\source\repos\DelegateAppDemo\DelegateAppDemo\obj\Debug\DelegateAppDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\DelegateAppDemo\DelegateAppDemo\obj\Debug\DelegateAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DelegateAppDemo\DelegateAppDemo\obj\Debug\DelegateAppDemo.exe
+C:\Users\hp\source\repos\DelegateAppDemo\DelegateAppDemo\obj\Debug\DelegateAppDemo.pdb
