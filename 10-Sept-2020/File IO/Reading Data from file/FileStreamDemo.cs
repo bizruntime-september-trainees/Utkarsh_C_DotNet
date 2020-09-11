@@ -5,10 +5,12 @@ public class FileStreamExample
     public static void Main(string[] args)  
     {  
         FileStream f = new FileStream("e:\\b.txt", FileMode.OpenOrCreate);  
-        for (int i = 65; i <= 90; i++)  
+        int i = 0;  
+        while ((i = f.ReadByte()) != -1)  
         {  
-            f.WriteByte((byte)i);  
+            Console.Write((char)i);  
         }  
-        f.Close();  
+        f.Close();
+		Console.ReadKey();
     }  
 }  
