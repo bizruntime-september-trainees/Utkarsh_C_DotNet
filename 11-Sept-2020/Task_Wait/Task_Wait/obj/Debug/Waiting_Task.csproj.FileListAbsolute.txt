@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Task_Wait\Task_Wait\bin\Debug\Task_Wait.exe.config
+C:\Users\hp\source\repos\Task_Wait\Task_Wait\bin\Debug\Task_Wait.exe
+C:\Users\hp\source\repos\Task_Wait\Task_Wait\bin\Debug\Task_Wait.pdb
+C:\Users\hp\source\repos\Task_Wait\Task_Wait\obj\Debug\Waiting_Task.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Task_Wait\Task_Wait\obj\Debug\Waiting_Task.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Task_Wait\Task_Wait\obj\Debug\Task_Wait.exe
+C:\Users\hp\source\repos\Task_Wait\Task_Wait\obj\Debug\Task_Wait.pdb

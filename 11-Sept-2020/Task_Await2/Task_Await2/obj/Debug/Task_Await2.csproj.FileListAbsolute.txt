@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Task_Await2\Task_Await2\bin\Debug\Task_Await2.exe.config
+C:\Users\hp\source\repos\Task_Await2\Task_Await2\bin\Debug\Task_Await2.exe
+C:\Users\hp\source\repos\Task_Await2\Task_Await2\bin\Debug\Task_Await2.pdb
+C:\Users\hp\source\repos\Task_Await2\Task_Await2\obj\Debug\Task_Await2.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Task_Await2\Task_Await2\obj\Debug\Task_Await2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Task_Await2\Task_Await2\obj\Debug\Task_Await2.exe
+C:\Users\hp\source\repos\Task_Await2\Task_Await2\obj\Debug\Task_Await2.pdb
