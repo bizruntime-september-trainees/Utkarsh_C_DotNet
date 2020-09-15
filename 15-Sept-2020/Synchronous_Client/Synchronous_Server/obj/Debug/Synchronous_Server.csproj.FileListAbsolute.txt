@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Server\bin\Debug\Synchronous_Server.exe.config
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Server\bin\Debug\Synchronous_Server.exe
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Server\bin\Debug\Synchronous_Server.pdb
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Server\obj\Debug\Synchronous_Server.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Server\obj\Debug\Synchronous_Server.exe
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Server\obj\Debug\Synchronous_Server.pdb

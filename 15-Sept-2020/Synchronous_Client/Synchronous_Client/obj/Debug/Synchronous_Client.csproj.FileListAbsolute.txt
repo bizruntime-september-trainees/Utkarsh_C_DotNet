@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Client\bin\Debug\Synchronous_Client.exe.config
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Client\bin\Debug\Synchronous_Client.exe
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Client\bin\Debug\Synchronous_Client.pdb
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Client\obj\Debug\Synchronous_Client.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Client\obj\Debug\Synchronous_Client.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Client\obj\Debug\Synchronous_Client.exe
+C:\Users\hp\source\repos\Synchronous_Client\Synchronous_Client\obj\Debug\Synchronous_Client.pdb

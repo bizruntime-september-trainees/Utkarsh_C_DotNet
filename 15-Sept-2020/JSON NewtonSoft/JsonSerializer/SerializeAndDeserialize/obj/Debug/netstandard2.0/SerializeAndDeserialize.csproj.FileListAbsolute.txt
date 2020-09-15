@@ -1,0 +1,5 @@
+C:\Users\hp\source\repos\JsonSerializer\SerializeAndDeserialize\bin\Debug\netstandard2.0\SerializeAndDeserialize.deps.json
+C:\Users\hp\source\repos\JsonSerializer\SerializeAndDeserialize\bin\Debug\netstandard2.0\SerializeAndDeserialize.dll
+C:\Users\hp\source\repos\JsonSerializer\SerializeAndDeserialize\obj\Debug\netstandard2.0\SerializeAndDeserialize.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\JsonSerializer\SerializeAndDeserialize\obj\Debug\netstandard2.0\SerializeAndDeserialize.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\JsonSerializer\SerializeAndDeserialize\obj\Debug\netstandard2.0\SerializeAndDeserialize.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRFiSQ47fJpdbiDxN0ST4Nl5n4uAWIAQY47kerCevYV80lw8tR6LvHEUx4P4Tqj/GcRR+mRj5XnWxMafc1nKPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\JsonSerializer\\SerializeAndDeserialize\\SerializeAndDeserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.exe.config
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.exe
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.pdb
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.csproj.CopyComplete
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.exe
+C:\Users\hp\source\repos\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.pdb

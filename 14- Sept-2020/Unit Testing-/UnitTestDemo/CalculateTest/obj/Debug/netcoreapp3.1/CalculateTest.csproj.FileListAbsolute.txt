@@ -1,0 +1,4 @@
+C:\Users\hp\source\repos\UnitTestDemo\CalculateTest\obj\Debug\netcoreapp3.1\CalculateTest.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\UnitTestDemo\CalculateTest\obj\Debug\netcoreapp3.1\CalculateTest.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UnitTestDemo\CalculateTest\obj\Debug\netcoreapp3.1\CalculateTest.AssemblyInfo.cs
+C:\Users\hp\source\repos\UnitTestDemo\CalculateTest\obj\Debug\netcoreapp3.1\CalculateTest.csproj.CoreCompileInputs.cache

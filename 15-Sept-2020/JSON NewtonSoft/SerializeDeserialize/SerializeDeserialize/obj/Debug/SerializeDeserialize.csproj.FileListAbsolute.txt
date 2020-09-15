@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\SerializeDeserialize.exe.config
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\SerializeDeserialize.exe
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\SerializeDeserialize.pdb
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\SerializeDeserialize.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\SerializeDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\SerializeDeserialize.csproj.CopyComplete
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\SerializeDeserialize.exe
+C:\Users\hp\source\repos\SerializeDeserialize\SerializeDeserialize\obj\Debug\SerializeDeserialize.pdb

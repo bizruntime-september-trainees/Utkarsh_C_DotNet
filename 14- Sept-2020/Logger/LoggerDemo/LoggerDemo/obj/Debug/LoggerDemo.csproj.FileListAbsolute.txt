@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\LoggerDemo\LoggerDemo\bin\Debug\LoggerDemo.exe.config
+C:\Users\hp\source\repos\LoggerDemo\LoggerDemo\bin\Debug\LoggerDemo.exe
+C:\Users\hp\source\repos\LoggerDemo\LoggerDemo\bin\Debug\LoggerDemo.pdb
+C:\Users\hp\source\repos\LoggerDemo\LoggerDemo\obj\Debug\LoggerDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LoggerDemo\LoggerDemo\obj\Debug\LoggerDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LoggerDemo\LoggerDemo\obj\Debug\LoggerDemo.exe
+C:\Users\hp\source\repos\LoggerDemo\LoggerDemo\obj\Debug\LoggerDemo.pdb

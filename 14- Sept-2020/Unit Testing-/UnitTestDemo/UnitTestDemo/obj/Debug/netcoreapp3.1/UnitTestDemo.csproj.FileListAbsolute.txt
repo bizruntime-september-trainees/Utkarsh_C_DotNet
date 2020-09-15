@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.exe
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.deps.json
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.runtimeconfig.json
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.runtimeconfig.dev.json
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.dll
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.pdb
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.AssemblyInfo.cs
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.dll
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.pdb
+C:\Users\hp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.genruntimeconfig.cache
