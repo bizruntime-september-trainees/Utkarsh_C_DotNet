@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ADO_Insert\ADO_Insert\bin\Debug\ADO_Insert.exe.config
+C:\Users\hp\source\repos\ADO_Insert\ADO_Insert\bin\Debug\ADO_Insert.exe
+C:\Users\hp\source\repos\ADO_Insert\ADO_Insert\bin\Debug\ADO_Insert.pdb
+C:\Users\hp\source\repos\ADO_Insert\ADO_Insert\obj\Debug\ADO_Insert.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ADO_Insert\ADO_Insert\obj\Debug\ADO_Insert.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ADO_Insert\ADO_Insert\obj\Debug\ADO_Insert.exe
+C:\Users\hp\source\repos\ADO_Insert\ADO_Insert\obj\Debug\ADO_Insert.pdb
