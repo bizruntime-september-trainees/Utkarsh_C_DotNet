@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerivingObservables", "DerivingObservables\DerivingObservables.csproj", "{A4725BA9-8D7A-4272-AEFC-1F879E7F5499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4725BA9-8D7A-4272-AEFC-1F879E7F5499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4725BA9-8D7A-4272-AEFC-1F879E7F5499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4725BA9-8D7A-4272-AEFC-1F879E7F5499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4725BA9-8D7A-4272-AEFC-1F879E7F5499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCDD7348-D9C3-4E67-87C3-80F4CB16CA6D}
+	EndGlobalSection
+EndGlobal

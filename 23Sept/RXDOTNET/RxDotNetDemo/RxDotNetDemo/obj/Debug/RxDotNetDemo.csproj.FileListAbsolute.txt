@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\RxDotNetDemo.exe.config
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\RxDotNetDemo.exe
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\RxDotNetDemo.pdb
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\System.Reactive.dll
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\System.Reactive.xml
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\obj\Debug\RxDotNetDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\obj\Debug\RxDotNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\obj\Debug\RxDotNetDemo.csproj.CopyComplete
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\obj\Debug\RxDotNetDemo.exe
+C:\Users\hp\source\repos\RxDotNetDemo\RxDotNetDemo\obj\Debug\RxDotNetDemo.pdb
