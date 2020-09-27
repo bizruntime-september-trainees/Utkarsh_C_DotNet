@@ -1,0 +1,1 @@
+E:\ServiceFabric\Service_Fabric_Demo\Service_Fabric_Demo\obj\x64\Debug\Service_Fabric_Demo.sfproj.CoreCompileInputs.cache
