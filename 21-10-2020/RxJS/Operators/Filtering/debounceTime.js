@@ -1,0 +1,10 @@
+"use strict";
+//   An Observable that delays the emissions of the source Observable by the specified dueTime
+//      But drops previous pending delayed emmisions if new value arrives.
+//      Keeps track of the most recent value from the Observable
+exports.__esModule = true;
+var rxjs_1 = require("rxjs");
+var operators_1 = require("rxjs/operators");
+var clicks = rxjs_1.fromEvent(document, 'click');
+var result = clicks.pipe(operators_1.debounceTime(1000));
+result.subscribe(function (x) { return console.log(x); });

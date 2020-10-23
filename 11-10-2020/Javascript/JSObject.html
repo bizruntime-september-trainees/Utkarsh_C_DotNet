@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Objects</title>
+</head>
+
+<body>
+
+    <h2>Creating Javascript objects</h2>
+
+    <p id="demo"></p>
+
+    <script>
+
+        var person = {
+
+            //      Defining object variables as name-value pairs
+
+            firstName: "Utkarsh",
+            lastName: "Pant",
+            age: 25,
+            Married: false
+        };
+
+        document.getElementById("demo").innerHTML = "Person's name is : " + person.firstName;
+
+         //   JAVASCRIPT OBJECTS ARE MUTABLE   
+
+         var x = person;  
+
+x.firstName = "Rishabh";
+
+document.getElementById("demo").innerHTML = "Person's first name is: "+person.firstName;
+    </script>
+
+   
+
+
+
+</body>
+
+</html>

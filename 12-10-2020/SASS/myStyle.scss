@@ -1,0 +1,18 @@
+
+$myFontFamily: 'Segoe UI', Tahoma, Verdana, sans-serif;
+$myFontSize: 20px;
+$myColor: red;
+$myWidth: 700px;
+
+
+body{
+
+    font-family: $myFontFamily;
+    font-size: $myFontSize;
+    color: $myColor;
+
+}
+
+#container{
+    width: $myWidth;
+}

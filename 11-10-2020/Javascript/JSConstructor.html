@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Constructor</title>
+</head>
+<body>
+
+    <p id="demo"></p>
+    <p id="nation"></p>
+
+    <script>
+
+        //  Creating Constructor function for Person object 
+
+        var Person = function(firstName, lastName, age, eyeColor){
+
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.age = age;
+            this.eyeColor = eyeColor;
+
+            this.name = function(){
+
+                return this.firstName +" "+this.lastName;
+            }
+
+        }
+
+
+        var utkarsh = new Person("Utkarsh", "Pant", 25, "black" );
+
+        utkarsh.nationality = "Indian";
+        // utkarsh.name = function() {
+        //     return this.firstName +" "+this.lastName;
+        // }
+
+        document.getElementById("demo").innerHTML = "My name is "+utkarsh.name();
+        document.getElementById("nation").innerHTML = "I am " +utkarsh.nationality;
+
+    </script>
+    
+</body>
+</html>

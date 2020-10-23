@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Json_stringify</title>
+</head>
+<body>
+
+    <h2>Creating JSON string from javascript object</h2>
+
+    <p id="demo"></p>
+    <p id="obj"></p>
+
+    <script>
+
+var myStudent = {first_name: "Utkarsh", last_name: "Pant", age: 24 };
+
+var myJson = JSON.stringify(myStudent);
+
+document.getElementById("demo").innerHTML = myJson;
+
+    </script>
+<h2>Exceptions</h2>
+
+<p>JSON cannot convert Date object into string</p>
+<p>If there exists a function in the object then JSON will ignore that function and convert other values to String</p>
+<em>IF you send functions using JSON then function will lose their scope and receiver has to use eval() function to convert them back to functions</em>
+    
+</body>
+</html>

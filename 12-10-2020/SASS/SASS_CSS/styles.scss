@@ -1,0 +1,15 @@
+
+@import "nesting";
+
+$myColor: red;
+
+h1{
+
+    $myColor: purple !global;
+   // $myColor: green;
+   color:  $myColor;
+}
+
+p{
+    color: $myColor;
+}
